@@ -1,22 +1,22 @@
 <?php
 
 
-$shortcode="174379"; //YOUR_SHORT_CODE_HERE
-$initiatorname="apiop37"; //The initiator law
-$initiatorpassword="Safaricom3021#";
+$shortcode="*****"; //YOUR_SHORT_CODE_HERE
+$initiatorname="******"; //The initiator law
+$initiatorpassword="**************";
 
 
-$consumerkey    ="nwT6nTENgGR0DYIsSP9KiKckEli62uOG";//YOUR_CONSUMER_SECRET_HERE
-$consumersecret ="pY8gtGPuYYzYMw6k"; //YOUR_CONSUMER_SECRET_HERE
+$consumerkey    ="******************";//YOUR_CONSUMER_SECRET_HERE
+$consumersecret ="*******************"; //YOUR_CONSUMER_SECRET_HERE
 
 
 $commandid='BusinessPayment';
-$mobilenumber="254798668727"; //client mobile number
+$mobilenumber="*****************"; //client mobile number
 $amount="10"; //amount to be paid by client
 $remarks='TEST BUSINESS DISBURSAL';
 $occassion='JANUARY 2020';
 $lipa_time = date('YmdHis');
-$LipaNaMpesaOnlinePassKey = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"; //input your 
+$LipaNaMpesaOnlinePassKey = "****************************************************************************"; //input your 
 
 
 $QueueTimeOutURL="http://lagaster.com"; // in put your queue time out url here
