@@ -8,7 +8,6 @@ This is a Radius Network administration tool:
 Of course this project:
 > 1. Is meant to be used over the [freeradius](https://freeradius.org/) server utility.
 >> Therefore the 1st step will be to make it compatible with the new release freeradius4/3.2. Honestly am not sure if 4 is already out.
->
 >>* Check out the freeradius project [here][1]
 
 
