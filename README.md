@@ -1,6 +1,6 @@
 # **Radius Utility**.
 
-This is a Radius Network administration tool:
+This is a Radius-network administration tool:
 >* As at now this work is heavily borrowed from [dalloradius](https://github.com/lirantal/daloradius.git "NOT UPTO DATE BY @least 2 years.").
 >* This however is about to change as I embark on a 1 year Journey to revamp and update it starting 1st July 2022.
 >* All are welcome to Collaborate on this project.
